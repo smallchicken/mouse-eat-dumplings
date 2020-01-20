@@ -1,2 +1,1 @@
-# webpack-init
-# mouse-eat-dumplings
+# 一个模仿的小老鼠吃水饺的小游戏
